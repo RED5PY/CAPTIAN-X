@@ -1,3 +1,3 @@
 # CAPTIAN-X
-All in one tool 
+All in one
 User Friendly Toolkit
