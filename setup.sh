@@ -77,4 +77,5 @@ echo -e $fpp_cOmmunity "+-------------------------------------------------------
 sleep 3
 # copyright : https://github.com/F1d41
 clear
+ls
 exit
