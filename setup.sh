@@ -26,11 +26,21 @@ echo -e $fpp_cOmmunity "+-------------------------------------------------------
 sleep 5
 clear
 # fpp is the telegram community
+# please subscribe our YouTube channel
 read -p " Do you want to watch redspy tech youtube channel [ Y , N ] : " reply
 if [ $reply = y ]; then
 xdg-open https://youtube.com/c/REDSPYTECH
 clear
 elif [ $reply = Y ]; then
+xdg-open https://youtube.com/c/REDSPYTECH
+clear
+elif [ $reply = yes ]; then
+xdg-open https://youtube.com/c/REDSPYTECH
+clear
+elif [ $reply = YES ]; then
+xdg-open https://youtube.com/c/REDSPYTECH
+clear
+elif [ $reply = Yes ]; then
 xdg-open https://youtube.com/c/REDSPYTECH
 clear
 else
