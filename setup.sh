@@ -2,7 +2,7 @@ clear
 echo ""
 echo ""
 echo ""
-# fpp is the telegram community
+# FPP is a telegram based community 
 fpp_community_F1d41="\033[1;92m"
 fpp_Community="\033[1;91m"
 fpp_cOmmunity="\033[1;97m"
