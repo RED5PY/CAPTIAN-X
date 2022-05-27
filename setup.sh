@@ -21,7 +21,7 @@ echo -e $fpp_cOmmunity "+-------------------------------------------------------
 echo -e $fpp_cOmmunity "| $fpp_Community                               Authors                $fpp_cOmmunity                |"
 echo -e $fpp_cOmmunity "| $fpp_F1d41                      https://github.com/RED5PY        $fpp_cOmmunity               |"
 echo -e $fpp_cOmmunity "| $fpp_F1d41                      https://github.com/F1d41         $fpp_cOmmunity               |"
-echo -e $fpp_cOmmunity "|$fpp_community_F1d41 Version 1.0.10  $fpp_cOmmunity                                                      |"
+echo -e $fpp_cOmmunity "|$fpp_community_F1d41 Version 1.0.3   $fpp_cOmmunity                                                      |"
 echo -e $fpp_cOmmunity "+-----------------------------------------------------------------------+"
 sleep 5
 clear
