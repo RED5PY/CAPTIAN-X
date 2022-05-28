@@ -1,3 +1,10 @@
+##                   GNU GENERAL PUBLIC LICENSE
+##                    Version 3, 29 June 2007
+##
+##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+##    Everyone is permitted to copy and distribute verbatim copies
+##    of this license document, but changing it is not allowed.
+
 # { FPP } Community ( FPP is a telegram based community )
 fpp_community_F1d41="\033[0;31m"
 fpp_Community="\033[0;32m"
