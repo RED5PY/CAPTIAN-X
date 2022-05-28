@@ -82,6 +82,7 @@ echo -e $fpp_F1d41
 clear
 echo ""
 echo " Thank you for your love and support"
+echo " REDSPY TECH ❤️"
 echo -e $fpp_cOmmunity
 exit
 else
