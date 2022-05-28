@@ -89,7 +89,7 @@ clear
 echo -e $fpp_F1d41
 clear
 echo ""
-echo " Thank you for your love and support"
+echo " Love you guys"
 echo " REDSPY TECH ❤️"
 echo -e $fpp_cOmmunity
 ls
