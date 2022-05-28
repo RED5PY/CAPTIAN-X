@@ -92,6 +92,7 @@ echo ""
 echo " Thank you for your love and support"
 echo " REDSPY TECH ❤️"
 echo -e $fpp_cOmmunity
+ls
 exit
 else
 echo ""
