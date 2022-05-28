@@ -91,6 +91,8 @@ clear
 echo ""
 echo " Love you guys"
 echo " REDSPY TECH ❤️"
+sleep 1
+clear
 echo -e $fpp_cOmmunity
 ls
 exit
