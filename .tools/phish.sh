@@ -8,12 +8,9 @@ clear
 # RED5PY TECH ❤️
 # { FPP } Community
 # F1d41 
-
-
 insta () {
 echo -e $fpp_cOmmunity "|                       $fpp_community_F1d41 Installation Successfull                      $fpp_cOmmunity |"
 echo -e $fpp_cOmmunity "+-----------------------------------------------------------------------+"
-
 }
 ban () {
 clear
@@ -25,16 +22,10 @@ echo -e $fpp_cOmmunity "| $fpp_Community      ██╔═══╝ ██╔═
 echo -e $fpp_cOmmunity "| $fpp_Community      ██║     ██║  ██║██║███████║██║  ██║██║██║ ╚████║╚██████╔╝      $fpp_cOmmunity |"
 echo -e $fpp_cOmmunity "| $fpp_Community      ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝       $fpp_cOmmunity |"
 echo -e $fpp_cOmmunity "+-----------------------------------------------------------------------+"
-
 }
-
-
-
-
 phi () {
 echo -e $fpp_cOmmunity "|                        $fpp_community_F1d41 Advance Phishing Tools                       $fpp_cOmmunity |"
 echo -e $fpp_cOmmunity "+-----------------------------------------------------------------------+"
-
 }
 inva () {
 echo -e $fpp_cOmmunity "|                     $fpp_community_F1d41 Invalid option Try Again !!                     $fpp_cOmmunity |"
@@ -340,9 +331,6 @@ ban
 phi
 choo
 fi
-
-
-
 }
 down () {
 echo -e $fpp_cOmmunity "|                           $fpp_community_F1d41 Downloading...                            $fpp_cOmmunity |"
@@ -355,7 +343,3 @@ echo -e $fpp_cOmmunity "+-------------------------------------------------------
 ban
 phi
 choo
-
-
-
-
