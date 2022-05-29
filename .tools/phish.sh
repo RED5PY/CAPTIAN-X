@@ -4,7 +4,10 @@ fpp_cOmmunity="\033[1;97m"
 fpp_F1d41="\033[0;31m"
 fpp_f1d41="\033[0;93m"
 Fpp_community="\033[0;95m"
-
+clear
+# RED5PY TECH ❤️
+# { FPP } Community
+# F1d41 
 
 
 insta () {
