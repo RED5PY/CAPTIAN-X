@@ -1,8 +1,10 @@
+#!/bin/bash
 clear
 echo ""
 echo ""
 echo ""
 # FPP is a telegram based community 
+# REDSPY { please subscribe our YouTube channel }
 fpp_community_F1d41="\033[1;92m"
 fpp_Community="\033[1;91m"
 fpp_cOmmunity="\033[1;97m"
