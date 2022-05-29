@@ -68,7 +68,7 @@ exit
 else
 ban
 inva
-sleep 3
+sleep 2
 clear
 ban
 phi
