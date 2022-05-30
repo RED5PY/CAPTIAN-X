@@ -65,25 +65,334 @@ brut
 choo
 fi
 elif [ $opt = 02 ] || [ $opt = 2 ]; then
-echo ""
+echo ""      
 clear
 ban
 down
+echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
 sleep 1
-
-
+echo ""
+git clone https://github.com/example
+if [ -d example ]; then
+mv example ~
+clear
+ban
+insta
+echo -e $fpp_f1d41 " 99) Back                                                       00) Exit "
+echo -e $fpp_cOmmunity
+read -p "  What You Want to Choose : " opti
+if [ $opti = 99 ]; then
+ban
+brut
+choo
+elif [ $opti = 00 ]; then
+clear
+ban
+sleep 2
+clear
+ls
+exit
+else
+ban
+inva
+sleep 3
+clear
+ban
+brut
+choo
+fi
+else
+ban
+wrong
+echo " I think maybe your internet is not working"
+sleep 2
+clear
+ban
+brut
+choo
+fi
 elif [ $opt = 03 ] || [ $opt = 3 ]; then
-echo 
+echo ""      
+clear
+ban
+down
+echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
+sleep 1
+echo ""
+git clone https://github.com/example
+if [ -d example ]; then
+mv example ~
+clear
+ban
+insta
+echo -e $fpp_f1d41 " 99) Back                                                       00) Exit "
+echo -e $fpp_cOmmunity
+read -p "  What You Want to Choose : " opti
+if [ $opti = 99 ]; then
+ban
+brut
+choo
+elif [ $opti = 00 ]; then
+clear
+ban
+sleep 2
+clear
+ls
+exit
+else
+ban
+inva
+sleep 3
+clear
+ban
+brut
+choo
+fi
+else
+ban
+wrong
+echo " I think maybe your internet is not working"
+sleep 2
+clear
+ban
+brut
+choo
+fi
 elif [ $opt = 04 ] || [ $opt = 4 ]; then
-echo 
+echo ""      
+clear
+ban
+down
+echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
+sleep 1
+echo ""
+git clone https://github.com/example
+if [ -d example ]; then
+mv example ~
+clear
+ban
+insta
+echo -e $fpp_f1d41 " 99) Back                                                       00) Exit "
+echo -e $fpp_cOmmunity
+read -p "  What You Want to Choose : " opti
+if [ $opti = 99 ]; then
+ban
+brut
+choo
+elif [ $opti = 00 ]; then
+clear
+ban
+sleep 2
+clear
+ls
+exit
+else
+ban
+inva
+sleep 3
+clear
+ban
+brut
+choo
+fi
+else
+ban
+wrong
+echo " I think maybe your internet is not working"
+sleep 2
+clear
+ban
+brut
+choo
+fi
 elif [ $opt = 05 ] || [ $opt = 5 ]; then
-echo 
+echo ""      
+clear
+ban
+down
+echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
+sleep 1
+echo ""
+git clone https://github.com/example
+if [ -d example ]; then
+mv example ~
+clear
+ban
+insta
+echo -e $fpp_f1d41 " 99) Back                                                       00) Exit "
+echo -e $fpp_cOmmunity
+read -p "  What You Want to Choose : " opti
+if [ $opti = 99 ]; then
+ban
+brut
+choo
+elif [ $opti = 00 ]; then
+clear
+ban
+sleep 2
+clear
+ls
+exit
+else
+ban
+inva
+sleep 3
+clear
+ban
+brut
+choo
+fi
+else
+ban
+wrong
+echo " I think maybe your internet is not working"
+sleep 2
+clear
+ban
+brut
+choo
+fi
 elif [ $opt = 06 ] || [ $opt = 6 ]; then
-echo 
+echo ""      
+clear
+ban
+down
+echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
+sleep 1
+echo ""
+git clone https://github.com/example
+if [ -d example ]; then
+mv example ~
+clear
+ban
+insta
+echo -e $fpp_f1d41 " 99) Back                                                       00) Exit "
+echo -e $fpp_cOmmunity
+read -p "  What You Want to Choose : " opti
+if [ $opti = 99 ]; then
+ban
+brut
+choo
+elif [ $opti = 00 ]; then
+clear
+ban
+sleep 2
+clear
+ls
+exit
+else
+ban
+inva
+sleep 3
+clear
+ban
+brut
+choo
+fi
+else
+ban
+wrong
+echo " I think maybe your internet is not working"
+sleep 2
+clear
+ban
+brut
+choo
+fi
 elif [ $opt = 07 ] || [ $opt = 7 ]; then
-echo 
+echo ""      
+clear
+ban
+down
+echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
+sleep 1
+echo ""
+git clone https://github.com/example
+if [ -d example ]; then
+mv example ~
+clear
+ban
+insta
+echo -e $fpp_f1d41 " 99) Back                                                       00) Exit "
+echo -e $fpp_cOmmunity
+read -p "  What You Want to Choose : " opti
+if [ $opti = 99 ]; then
+ban
+brut
+choo
+elif [ $opti = 00 ]; then
+clear
+ban
+sleep 2
+clear
+ls
+exit
+else
+ban
+inva
+sleep 3
+clear
+ban
+brut
+choo
+fi
+else
+ban
+wrong
+echo " I think maybe your internet is not working"
+sleep 2
+clear
+ban
+brut
+choo
+fi
 elif [ $opt = 08 ] || [ $opt = 8 ]; then
-echo 
+echo ""      
+clear
+ban
+down
+echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
+sleep 1
+echo ""
+git clone https://github.com/example
+if [ -d example ]; then
+mv example ~
+clear
+ban
+insta
+echo -e $fpp_f1d41 " 99) Back                                                       00) Exit "
+echo -e $fpp_cOmmunity
+read -p "  What You Want to Choose : " opti
+if [ $opti = 99 ]; then
+ban
+brut
+choo
+elif [ $opti = 00 ]; then
+clear
+ban
+sleep 2
+clear
+ls
+exit
+else
+ban
+inva
+sleep 3
+clear
+ban
+brut
+choo
+fi
+else
+ban
+wrong
+echo " I think maybe your internet is not working"
+sleep 2
+clear
+ban
+brut
+choo
+fi
 elif [ $opt = 99 ]; then
 echo 
 elif [ $opt = 00 ]; then
