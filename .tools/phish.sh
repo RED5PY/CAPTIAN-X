@@ -337,6 +337,8 @@ clear
 exit
 elif [ $opt = 00 ]; then
 echo ""
+ban
+sleep 2
 cd
 clear
 ls
