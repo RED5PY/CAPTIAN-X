@@ -394,7 +394,12 @@ brut
 choo
 fi
 elif [ $opt = 99 ]; then
-echo 
+echo ""
+cd ..
+clear
+bash CAPTIAN-X.sh
+clear
+exit
 elif [ $opt = 00 ]; then
 echo 
 else
