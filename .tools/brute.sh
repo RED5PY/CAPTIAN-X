@@ -401,7 +401,11 @@ bash CAPTIAN-X.sh
 clear
 exit
 elif [ $opt = 00 ]; then
-echo 
+echo ""
+cd
+clear
+ls
+exit
 else
 ban
 inva
