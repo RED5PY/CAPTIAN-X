@@ -1,10 +1,17 @@
 #!/bin/bash
+##                   GNU GENERAL PUBLIC LICENSE
+##                    Version 3, 29 June 2007
+##
+##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+##    Everyone is permitted to copy and distribute verbatim copies
+##    of this license document, but changing it is not allowed.
+##    
+##    Subscribe our YouTube channel ( REDSPY TECH )
+##    { FPP } Community ( FPP is a telegram based community )
 clear
 echo ""
 echo ""
 echo ""
-# FPP is a telegram based community 
-# REDSPY TECH ❤️ { please subscribe our YouTube channel }
 fpp_community_F1d41="\033[1;92m"
 fpp_Community="\033[1;91m"
 fpp_cOmmunity="\033[1;97m"
