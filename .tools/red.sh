@@ -39,7 +39,7 @@ down
 echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
 sleep 1
 echo ""
-git clone https://github.com/example
+# git clone https://github.com/example
 if [ -d example ]; then
 mv example ~
 clear
@@ -86,7 +86,7 @@ down
 echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
 sleep 1
 echo ""
-git clone https://github.com/example
+# git clone https://github.com/
 if [ -d example ]; then
 mv example ~
 clear
@@ -133,7 +133,7 @@ down
 echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
 sleep 1
 echo ""
-git clone https://github.com/example
+# git clone https://github.com/example
 if [ -d example ]; then
 mv example ~
 clear
@@ -227,7 +227,7 @@ down
 echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
 sleep 1
 echo ""
-git clone https://github.com/example
+# git clone https://github.com/example
 if [ -d example ]; then
 mv example ~
 clear
@@ -274,7 +274,7 @@ down
 echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
 sleep 1
 echo ""
-git clone https://github.com/example
+# git clone https://github.com/example
 if [ -d example ]; then
 mv example ~
 clear
@@ -368,7 +368,7 @@ down
 echo -e $fpp_cOmmunity " Name $fpp_community_F1d41 : $fpp_f1d41 #Tool name                          $fpp_cOmmunity Created $fpp_community_F1d41 : $fpp_f1d41 # creator name"
 sleep 1
 echo ""
-git clone https://github.com/example
+# git clone https://github.com/example
 if [ -d example ]; then
 mv example ~
 clear
