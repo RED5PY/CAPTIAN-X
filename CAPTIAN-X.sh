@@ -69,7 +69,9 @@ if [ $opt = 01 ] || [ $opt = 1 ]; then
 echo ""
 clear
 cd .tools
-bash phish.sh
+chmod +x phish.sh
+clear
+./phish.sh
 elif [ $opt = 02 ] || [ $opt = 2 ]; then
 echo ""
 clear
